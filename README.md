@@ -10,7 +10,7 @@ ii. The user can submit their text with a “summarize” button and receive an 
 
 ## Acknowledgements
 
-I would like to acknowledge Madama Cecilia Nanfuka for her guidance and encouaragement to take on this course and the project. 
+I would like to acknowledge Madam Cecilia Nanfuka for her guidance and encouaragement to take on this course and the project. 
 ## Authors
 
 Dominic Mogeni
